@@ -1,0 +1,9 @@
+Main red	db444b
+Main blue	006ba2
+Main cyan	3ebcd2
+Main green	379abb
+Main yellow	ebb434
+Main olive	b4ba39
+Main purple	9a607f
+Main gold	d1b07c
+Main grey	758d99
